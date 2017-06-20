@@ -1,0 +1,6 @@
+D:\C#\MagicNumbers\MagicNumbers\bin\Debug\MagicNumbers.exe.config
+D:\C#\MagicNumbers\MagicNumbers\bin\Debug\MagicNumbers.exe
+D:\C#\MagicNumbers\MagicNumbers\bin\Debug\MagicNumbers.pdb
+D:\C#\MagicNumbers\MagicNumbers\obj\Debug\MagicNumbers.csprojResolveAssemblyReference.cache
+D:\C#\MagicNumbers\MagicNumbers\obj\Debug\MagicNumbers.exe
+D:\C#\MagicNumbers\MagicNumbers\obj\Debug\MagicNumbers.pdb
